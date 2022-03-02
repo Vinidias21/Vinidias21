@@ -32,4 +32,6 @@
   <img align="center" width="40px" height="30px" alt="Vinidias21-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" width="40px" height="30px" alt="Vinidias21-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" width="40px" height="30px" alt="Vinidias21-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" width="40px" height="30px" alt="Vinidias21-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" width="40px" height="30px" alt="Vinidias21-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
