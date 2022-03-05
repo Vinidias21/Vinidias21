@@ -6,7 +6,7 @@
 
 🎓 Computer Science student at Estácio de Sá University.
 
-⌛ At the moment, I'm learning front-end oriented programming languages.
+⌛ At the moment, I'm learning front-end-oriented programming languages.
 
 ### ⚒️ Learning:
 
