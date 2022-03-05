@@ -11,7 +11,7 @@
 ### ⚒️ Learning:
 
 <div>
-  <img align="center" width="40px" height="30px" alt="Vinidias21-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" width="40px" height="30px" alt="Vinidias21-jsc" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" width="40px" height="30px" alt="Vinidias21-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" width="40px" height="30px" alt="Vinidias21-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" width="40px" height="30px" alt="Vinidias21-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
