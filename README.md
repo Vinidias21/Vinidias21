@@ -2,7 +2,7 @@
 
 😆 My name is Vinicius Dias, and I live in Goiânia - Goiás (Brazil).
 
-✨ I am passionate about programming since I discovered what is possible to do with code lines, and the more I learn how to code the more fascinated I get by the development universe!! ❤️
+✨ I am passionate about programming since I discovered what is possible to do with code lines, and the more I learn about this universe more fascinated I get!!! ❤️
 
 🎓 Computer Science student at Estácio de Sá University.
 
