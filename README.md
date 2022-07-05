@@ -23,8 +23,8 @@
 ***
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinidias21&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinidias21&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinidiasdc&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidiasdc&layout=compact&theme=tokyonight"/>
 </div>
 
 <img align="right" width="120px" height="120px" src="https://cdn.discordapp.com/attachments/947335821604814881/947474963777073212/Animacao-do-meu-Avatar.gif">
