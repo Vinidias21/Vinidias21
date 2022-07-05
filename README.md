@@ -1,19 +1,17 @@
 # "Hello World" 👨‍💻👋
 
-😆 I am Vinicius Dias, and I live in Goiânia - Goiás (Brazil).
+😆 Hi, I am Vinicius Dias and I live in Aparecida de Goiânia - Goiás (Brazil).
 
-✨ I'm passionate about programming since I discovered what is possible to do with code lines, and the more I learn about this universe more fascinated I get!!! ❤️
+✨ I'm passionate about programming since I finded out what is possible to do with code lines, and the more I learn about this universe more fascinated I get!!! ❤️
 
 🎓 Computer Science student at Estácio de Sá University.
 
-⌛ At the moment, I'm learning front-end-oriented programming languages.
+⌛ At the moment, I'm learning front-end programming languages.
 
 ### ⚒️ Learning:
 
 <div>
   <img align="center" width="40px" height="30px" alt="Vinidias21-jsc" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" width="40px" height="30px" alt="Vinidias21-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" width="40px" height="30px" alt="Vinidias21-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" width="40px" height="30px" alt="Vinidias21-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" width="40px" height="30px" alt="Vinidias21-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" width="40px" height="30px" alt="Vinidias21-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
