@@ -2,7 +2,7 @@
 
 😆 Fala glr, me chamo Vinicius Dias e esse é meu perfil para colocar repositórios de aulas e projetos que realizo na minha faculdade no mundo da programação. Atualmente faço minha graduação na Estácio de Sá de Goiás presencialmente em Goiânia e moro em Aparecida de Goiânia.
 
-✨ Sigo me dedicando em me tornar um desenvolvedor, pois me encantei com o universo do desenvolvimento depois que descobri todas as mudanças que linhas de código podem causar no mundo e a cada aprendizado novo é uma paixão ainda maior que cresce em mim pela programação! ❤️
+✨ Sigo dedicando meu tempo e esforço para me tornar um desenvolvedor, pois fiquei encantado com o mundo da programação desde que descobri como linhas de código podem mudar o mundo ao nosso redor. Cada novo aprendizado é uma paixão crescente por essa arte e que me motiva a me esforçar ainda mais para alcançar meus objetivos como programador. ❤️
 
 🎓 Graduação em Ciências da Computação - Estácio de Sá de Goiás - 5° Período - Noturno
 
