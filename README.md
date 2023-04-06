@@ -1,6 +1,6 @@
 # "Hello World" 👨‍💻👋
 
-😆 Fala glr, me chamo Vinicius Dias e esse é meu perfil para colocar repositórios de aulas e projetos que realizo na minha faculdade no mundo da programação. Atualmente faço minha graduação na Estácio de Sá de Goiás presencialmente em Goiânia e moro em Aparecida de Goiânia.
+😆 Fala galera, me chamo Vinicius e esse é meu perfil para colocar repositórios de aulas e projetos que realizo na minha faculdade no mundo da programação. Atualmente faço minha graduação na Estácio de Sá de Goiás presencialmente em Goiânia.
 
 ✨ Sigo dedicando meu tempo e esforço para me tornar um desenvolvedor, pois fiquei encantado com o mundo da programação desde que descobri como linhas de código podem mudar o mundo ao nosso redor. Cada novo aprendizado é uma paixão crescente por essa arte e que me motiva a me esforçar ainda mais para alcançar meus objetivos como programador. ❤️
 
