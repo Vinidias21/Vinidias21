@@ -1,8 +1,10 @@
 # "Hello World" 👨‍💻👋
 
-😆 Fala galera, me chamo Vinicius e esse é meu perfil para colocar repositórios de aulas e projetos que realizo na minha faculdade no mundo da programação. Atualmente faço minha graduação na Estácio de Sá de Goiás presencialmente em Goiânia.
+😆 Fala galera, neste espaço compartilho repositórios contendo projetos pessoais e acadêmicos desenvolvidos durante minha graduação em programação na Estácio de Sá de Goiás, em Goiânia.
 
-✨ Sigo dedicando meu tempo e esforço para me tornar um desenvolvedor, pois fiquei encantado com o mundo da programação desde que descobri como linhas de código podem mudar o mundo ao nosso redor. Cada novo aprendizado é uma paixão crescente por essa arte e que me motiva a me esforçar ainda mais para alcançar meus objetivos como programador. ❤️
+✨ Durante minha jornada acadêmica, tenho me dedicado a aprofundar meus conhecimentos em diversas áreas da programação e explorar diferentes tecnologias para me tornar um desenvolvedor mais completo e versátil. ❤️
+
+🚀 Este espaço tem como propósito documentar minha trajetória na graduação em programação, oferecendo acesso aos projetos e códigos que desenvolvi durante as aulas e também em meus momentos de estudo independente. Além disso, desejo contribuir com a comunidade, compartilhando conhecimentos, experiências e aprendizados que possam ser úteis para outros estudantes e profissionais da área.
 
 🎓 Graduação em Ciências da Computação - Estácio de Sá de Goiás - 5° Período - Noturno
 
